@@ -1,3 +1,3 @@
-# Essentials_of_Chemical_Engineering
+# Essentials of Chemical Engineering
 
 Fundamentals for Chemical Engineering
