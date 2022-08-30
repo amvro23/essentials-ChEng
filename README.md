@@ -6,4 +6,4 @@ Here you can find information regarding:
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
 - Parameter Estimation in ODE / Parameter Estimation in a differential equation
 - Linear Regression for Enthalpy Calculation / Linear Regression - Enthalpy Calculation
-- Shooting method for solving a boundary value problem by reducing it to an initial value problem / Shooting Method
+- Solve Differential Equations with Boundary Conditions / ODE Boundary Conditions
