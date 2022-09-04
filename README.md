@@ -7,4 +7,4 @@ Here you can find information regarding:
 - Parameter Estimation in ODE / Parameter Estimation in a differential equation
 - Linear Regression for Enthalpy Calculation / Linear Regression - Enthalpy Calculation
 - Solve Differential Equations with Boundary Conditions / ODE Boundary Conditions
-- Two way of solving differential equations in a PFR / PFR examples
+- Two methods for solving differential equations in a PFR / PFR examples
