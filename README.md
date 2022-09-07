@@ -8,4 +8,4 @@ Here you can find information regarding:
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
 - Parameter Estimation in ODE / Parameter Estimation in a Differential Equation
 - Linear Regression for Enthalpy Calculation / Linear Regression - Enthalpy Calculation
-- Solve Differential Equations with Boundary Conditions / ODE Boundary Conditions
+- Solving Differential Equations in Python / Solving ODEs - Examples
