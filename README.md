@@ -6,6 +6,6 @@ Here you can find information regarding:
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
 - Steady State with no Axial Dispersion / PFR - Steady State with no Axial Dispersion
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
-- Parameter Estimation in ODE / Parameter Estimation in a Differential Equation
+- Parameter Estimation with Single Response Optimization
 - Linear Regression for Enthalpy Calculation / Linear Regression - Enthalpy Calculation
 - Solving Differential Equations in Python / Solving ODEs - Examples
