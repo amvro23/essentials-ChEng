@@ -11,5 +11,5 @@ Here you can find information regarding:
 - Linear Regression for Enthalpy Calculation / Linear Regression - Enthalpy Calculation
 - Solving Differential Equations in Python / Solving ODEs - Examples
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Maximize Concentration (Batch)
-- Parameter Estimation (Single Response Optimization) & Differential Equation / Parameter Estimation (SRO) & ODE
+- Solving a Fitting Problem (Examples)
 
