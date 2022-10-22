@@ -4,7 +4,6 @@ Here you can find information regarding:
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
 - Adiabatic Endothermic Reaction in a PFR / PFR - (Fogler 12.2 - p.540)
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
-- Parameter Estimation (Single Response Optimization) / Parameter Estimation - (Fogler 10.1 - p.451)
 - Complex Reactions with Heat Effects in a PFR + (Optimization) / PFR - (Fogler 12.7 - p.570).ipynb
 - Steady State with no Axial Dispersion / PFR - Steady State with no Axial Dispersion
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
