@@ -7,7 +7,7 @@ Here you can find information regarding:
 - Complex Reactions with Heat Effects in a PFR + (Optimization) / PFR - (Fogler 12.7 - p.570).ipynb
 - Steady State with no Axial Dispersion / PFR - Steady State with no Axial Dispersion
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
-- Linear Regression for Enthalpy Calculation / Linear Regression - Enthalpy Calculation
+- Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 - Solving Differential Equations in Python / Solving ODEs - Examples
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Maximize Concentration (Batch)
 - Solving a Fitting Problem (Examples)
