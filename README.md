@@ -2,14 +2,14 @@
 
 ## Here you can find information regarding:
 
-### Adsorption processes:
+### Adsorption processes
 - Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR)
-- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham)
-- Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart)
+- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) / Data in (adsorption_kinetics.csv)
+- Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity
 - Modified Arrhenius for Activation Energy Calculation
 
-### Fogler's Book Examples for:
+### Fogler's Book Examples
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
 - Adiabatic Endothermic Reaction in a PFR / PFR - (Fogler 12.2 - p.540)
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
