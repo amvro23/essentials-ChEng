@@ -7,7 +7,7 @@
 - Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) / Data in (adsorption_kinetics.csv)
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity
-- Modified Arrhenius for Activation Energy Calculation
+- Modified Arrhenius for Activation Energy Calculation / Rate Constants at Different Temperatures Obtained from Bangham Model
 
 ### Fogler's Book Examples
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
