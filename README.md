@@ -1,5 +1,7 @@
 # Essentials of Chemical Engineering
 
+## Adsorption processes:
+
 ## Here you can find information regarding:
 Fogler's Book Examples for:
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
