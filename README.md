@@ -33,3 +33,8 @@ S & M Models and Optizations Examples for:
 - Single Response Fitting Problems / Fitting Problem (Examples)
 - Bates and Watts, 1988, p. 147 / Multiresponse Model (Example)
 - Calculating Crystallite Size from X-Ray Diffraction / XRD Fitting / Data in (red_LCNO.txt)
+
+### Science Plots
+- Bar Chart
+- Breakthrough Curve
+- Error Bars
