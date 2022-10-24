@@ -11,7 +11,7 @@ Fogler's Book Examples for:
 ## Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
 
-## Steady State with Axial & no Axial Dispersion Examples
+## Steady State with Axial & No Axial Dispersion Examples
 - Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
 
