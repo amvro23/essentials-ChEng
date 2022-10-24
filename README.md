@@ -1,7 +1,6 @@
 # Essentials of Chemical Engineering
 
 ## Here you can find information regarding:
-
 Fogler's Book Examples:
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
 - Adiabatic Endothermic Reaction in a PFR / PFR - (Fogler 12.2 - p.540)
@@ -12,7 +11,7 @@ Fogler's Book Examples:
 ## Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
 
-## Steady State with Axial & no Axial Dispersion Examples:
+## Steady State with Axial & no Axial Dispersion Examples
 - Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
 
@@ -20,6 +19,7 @@ Fogler's Book Examples:
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 
 ## Single & Multiresponse Models - Single & Multiobjective Optimizations
+S & M Models and Optizations Examples for:
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Solving a Fitting Problem with Different Methods (Examples) / Solving a Fitting Problem (Examples)
 - Multiresponse Model
