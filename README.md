@@ -10,6 +10,6 @@ Here you can find information regarding:
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 - Solving Differential Equations in Python / Solving ODEs - Examples
-- Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Maximize Concentration (Batch)
+- Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Solving a Fitting Problem (Examples)
 
