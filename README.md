@@ -2,7 +2,7 @@
 
 ## Here you can find information regarding:
 
-### Adsorption processes
+### Adsorption Processes
 - Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR)
 - Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) / Data in (adsorption_kinetics.csv)
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Data in (Co_10%.csv)
