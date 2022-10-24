@@ -3,11 +3,11 @@
 ## Here you can find information regarding:
 
 ### Adsorption Processes
-- Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR)
-- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) / Data in (adsorption_kinetics.csv)
-- Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Data in (Co_10%.csv)
-- Adsorption Binary Selectivity
-- Modified Arrhenius for Activation Energy Calculation / Rate Constants at Different Temperatures Obtained from Bangham Model
+- Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR) / Adsorption Isotherms
+- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) / Adsorption Kinetics / Data in (adsorption_kinetics.csv)
+- Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Adsorption Breakthrough Prediction / Data in (Co_10%.csv)
+- Adsorption Binary Selectivity / Adsorption Selectivity
+- Modified Arrhenius for Activation Energy Calculation / Modified Arrhenius
 
 ### Fogler's Book Examples
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
