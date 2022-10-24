@@ -7,7 +7,7 @@ Fogler's book examples:
 - Adiabatic Endothermic Reaction in a PFR / PFR - (Fogler 12.2 - p.540)
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
 - Complex Reactions with Heat Effects in a PFR + (Optimization) / PFR - (Fogler 12.7 - p.570)
-- Non-linear Regression Analysis to Determine the Model Parameters / Parameter Estimation - (Fogler 10.1 - p.451)
+- Non-linear Regression Analysis to Determine the Model Parameters / Kinetics - (Fogler 10.1 - p.451)
 
 ## Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - Examples
