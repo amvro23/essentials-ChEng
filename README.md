@@ -1,6 +1,11 @@
 # Essentials of Chemical Engineering
 
 ## Adsorption processes:
+- Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR)
+- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham)
+- Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart)
+- Adsorption Binary Selectivity
+- Modified Arrhenius for Activation Energy Calculation
 
 ## Here you can find information regarding:
 Fogler's Book Examples for:
