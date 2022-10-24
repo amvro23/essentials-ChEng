@@ -10,7 +10,7 @@ Fogler's book examples:
 - Non-linear Regression Analysis to Determine the Model Parameters / Kinetics - (Fogler 10.1 - p.451)
 
 ## Solving Differential Equations in Python
-- Solving Differential Equations in Python / Solving ODEs - Examples
+- Solving Differential Equations in Python / Solving ODEs - (Examples)
 
 ## Steady State with Axial & no Axial Dispersion Examples
 - Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion
