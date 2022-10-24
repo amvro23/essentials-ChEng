@@ -35,6 +35,6 @@ S & M Models and Optizations Examples for:
 - Calculating Crystallite Size from X-Ray Diffraction / XRD Fitting / Data in (red_LCNO.txt)
 
 ### Science Plots
-- Bar Chart
-- Breakthrough Curve
-- Error Bars
+- Science Plots - Bar Chart
+- Science Plots - Breakthrough Curve
+- Science Plots - Error Bars
