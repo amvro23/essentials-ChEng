@@ -22,3 +22,4 @@ Fogler's book examples:
 # Single & Multiresponse Models - Single & Multiobjective Optimizations
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Solving a Fitting Problem with Different Methods (Examples) / Solving a Fitting Problem (Examples)
+- Multiresponse Model
