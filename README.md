@@ -25,6 +25,7 @@
 
 ### Linear Methods for Calculating Desired Parameters
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
+- Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
 
 ### Single & Multiresponse Models - Single & Multiobjective Optimizations
 S & M Models and Optizations Examples for:
