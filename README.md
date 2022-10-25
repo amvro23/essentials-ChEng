@@ -40,4 +40,4 @@ S & M Models and Optizations Examples for:
 - Science Plots - Error Bars
 
 ### Thermodynamic
-- Calculation of thermodynamic parameters (e.g., ΔHrx, Hi, Cpi, Keq, e.t.c.) of 4 parallel DRM reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
+- Calculation of thermodynamic parameters (e.g., ΔHrx, Hi, Cpi, Cpmix, Keq, e.t.c.) of 4 parallel DRM reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
