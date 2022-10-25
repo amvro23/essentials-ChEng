@@ -20,7 +20,7 @@
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
 - Adiabatic Endothermic Reaction in a PFR / PFR - (Fogler 12.2 - p.540)
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
-- Complex Reactions with Heat Effects in a PFR + (Optimization) / PFR - (Fogler 12.7 - p.570)
+- Complex Reactions with Heat Effects in a PFR + (Bonus Single & Multi-Objective Optimization) / PFR - (Fogler 12.7 - p.570)
 - Non-linear Regression Analysis to Determine the Model Parameters / Kinetics - (Fogler 10.1 - p.451)
 
 ### Linear Methods for Calculating Desired Parameters
