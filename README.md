@@ -22,6 +22,7 @@
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
 - Complex Reactions with Heat Effects in a PFR + (Bonus Single & Multi-Objective Optimization) / PFR - (Fogler 12.7 - p.570)
 - Non-linear Regression Analysis to Determine the Model Parameters / Kinetics - (Fogler 10.1 - p.451)
+- Hydrogenation of Ethylene to Ethane - Parameter Estimation / DR - (Fogler 10.3 - p.462)
 
 ### Linear Methods for Calculating Desired Parameters
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
