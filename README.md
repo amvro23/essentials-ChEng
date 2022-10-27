@@ -27,7 +27,7 @@
 ### Linear Methods for Calculating Desired Parameters
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
-- Bates and Watts, 1988, p.3 / Linear Regression - Example PCB1.ipynb 
+- Bates and Watts, 1988, p.3 - Polychlorinated biphenyls in Lake Cayuga / Linear Regression - Example PCB1.ipynb 
 
 ### Single & Multiresponse Models - Single & Multiobjective Optimizations
 S & M Models and Optizations Examples for:
