@@ -10,8 +10,8 @@
 - Modified Arrhenius for Activation Energy Calculation / Modified Arrhenius
 
 ### Steady State with Axial & No Axial Dispersion Examples
-- Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion
-- Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion
+- Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion (5 Examples)
+- Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion (1 Example)
 
 ### Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
@@ -27,7 +27,7 @@
 ### Linear Methods for Calculating Desired Parameters
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
-- Bates and Watts, 1988, p.3 - Polychlorinated biphenyls in Lake Cayuga / Linear Regression - Example PCB1.ipynb 
+- Bates and Watts, 1988, p.3 - Polychlorinated biphenyls in Lake Cayuga / Linear Regression - Example PCB1
 
 ### Single & Multiresponse Models (Parameter Estimation) - Single & Multiobjective Optimizations
 S & M Models and Optizations Examples for:
