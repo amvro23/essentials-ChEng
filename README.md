@@ -34,6 +34,7 @@ S & M Models and Optizations Examples for:
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Single Response Fitting Problems / Fitting Problem (Examples)
 - Bates and Watts, 1988, p.147 / Multiresponse Model (Example)
+- Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization (Example)
 - Calculating Crystallite Size from X-Ray Diffraction / XRD Fitting / Data in (red_LCNO.txt)
 
 ### Science Plots
