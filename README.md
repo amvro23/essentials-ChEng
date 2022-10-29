@@ -4,10 +4,9 @@
 
 ### Adsorption Processes
 - Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR) / Adsorption Isotherms
-- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) / Adsorption Kinetics / Data in (adsorption_kinetics.csv)
+- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) + Arrhenius / Adsorption Kinetics / Data in (adsorption_kinetics.csv)
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Adsorption Breakthrough Prediction / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity / Adsorption Selectivity
-- Modified Arrhenius for Activation Energy Calculation / Modified Arrhenius
 
 ### Steady State with Axial & No Axial Dispersion Examples
 - Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion (5 Examples)
