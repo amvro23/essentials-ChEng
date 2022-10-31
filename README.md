@@ -26,14 +26,15 @@
 ### Linear Methods for Calculating Desired Parameters
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
-- Bates and Watts, 1988, p.3 - Polychlorinated biphenyls in Lake Cayuga / Linear Regression - Example PCB1
+- Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 
 ### Single & Multiresponse Models (Parameter Estimation) - Single & Multiobjective Optimizations
 S & M Models and Optizations Examples for:
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Single Response Fitting Problems / Fitting Problem (Examples)
-- Bates and Watts, 1988, p.147 / Multiresponse Model (Example)
-- Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization (Example)
+- Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization
+- Bates and Watts, 1988, p.147 (Example of Multiresponse Parameter Estimation)/ Multiresponse Model
+- Bates and Watts, 1988, p.188 (Example of a Multiresponse Parameter Estimation Using Compartment Models)/Oil Shale - A Case Study
 - Calculating Crystallite Size from X-Ray Diffraction / XRD Fitting / Data in (red_LCNO.txt)
 
 ### Science Plots
