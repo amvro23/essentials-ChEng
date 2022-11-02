@@ -14,6 +14,7 @@
 
 ### Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
+- Solving the Heat Diffusion Equation (1D) / Heat Equation (1D)
 
 ### Fogler's Book Examples
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
