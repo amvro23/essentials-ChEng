@@ -14,8 +14,6 @@
 
 ### Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
-- Solving the Transient Heat Conduction Equation (1D) / Transient Heat Conduction (1D)
-- Solving the Transient Diffusion Equation (1D) / Transient Diffusion (1D)
 
 ### Fogler's Book Examples
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
@@ -47,3 +45,8 @@ S & M Models and Optizations Examples for:
 
 ### Thermodynamic
 - Calculation of thermodynamic parameters (e.g., ΔHrx, Hi, Cpi, Cpmix, Keq, e.t.c.) of 4 parallel DRM reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
+
+### Transient Behavior
+- Modelling a transient plug flow reactor / Transient PFR
+- Solving the Transient Heat Conduction Equation (1D) / Transient Heat Conduction (1D)
+- Solving the Transient Diffusion Equation (1D) / Transient Diffusion (1D)
