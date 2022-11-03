@@ -8,10 +8,6 @@
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Adsorption Breakthrough Prediction / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity / Adsorption Selectivity
 
-### Steady State with Axial & No Axial Dispersion Examples
-- Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion (5 Examples)
-- Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion (1 Example)
-
 ### Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
 
@@ -42,6 +38,10 @@ S & M Models and Optizations Examples for:
 - Science Plots - Breakthrough Curve
 - Science Plots - Error Bars
 - Science Plots - Smooth Line Plot
+
+### Steady State with Axial & No Axial Dispersion Examples
+- Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion (5 Examples)
+- Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion (1 Example)
 
 ### Thermodynamic
 - Calculation of thermodynamic parameters (e.g., ΔHrx, Hi, Cpi, Cpmix, Keq, e.t.c.) of 4 parallel DRM reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
