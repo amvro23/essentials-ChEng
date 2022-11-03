@@ -39,7 +39,7 @@ S & M Models and Optizations Examples for:
 - Science Plots - Error Bars
 - Science Plots - Smooth Line Plot
 
-### Steady State with Axial & No Axial Dispersion Examples
+### Steady State with Axial & No Axial Dispersion
 - Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion (5 Examples)
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion (1 Example)
 
