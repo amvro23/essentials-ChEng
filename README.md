@@ -44,7 +44,7 @@ S & M Models and Optizations Examples for:
 - Steady State with no Axial Dispersion Examples in Adiabatic and Isothermal PFR / PFR - Steady State with no Axial Dispersion (5 Examples)
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion (1 Example)
 
-### Thermodynamic
+### Thermodynamics
 - Calculation of thermodynamic parameters (e.g., ΔHrx, Hi, Cpi, Cpmix, Keq, e.t.c.) of 4 parallel DRM reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
 
 ### Transient Behavior
