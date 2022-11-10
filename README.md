@@ -19,6 +19,7 @@
 - Non-linear Regression Analysis to Determine the Model Parameters / Kinetics - (Fogler 10.1 - p.451)
 - Hydrogenation of Ethylene to Ethane - Parameter Estimation / DR - (Fogler 10.3 - p.462)
 - Production of Propylene Glycol in a CSTR with a Heat Exchanger / CSTR - (Fogler 13.4 - p.620)
+- Multiple Reactions in a Semibatch Reactor / Semibatch - (Fogler 13.5 - p.625)
 
 ### Linear Methods for Calculating Desired Parameters
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
