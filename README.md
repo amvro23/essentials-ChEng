@@ -4,7 +4,7 @@
 
 ### Adsorption Processes
 - Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR) / Adsorption Isotherms
-- Adsorption Kinetics (PFO, PSO, Weber-Morris, Bangham) + Arrhenius / Adsorption Kinetics / Data in (adsorption_kinetics.csv)
+- Adsorption Kinetics (PFO, PSO, Weber-Morris, Avrami, Bangham, Elovich) + Arrhenius / Adsorption Kinetics / Data in (adsorption_kinetics.csv)
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Adsorption Breakthrough Prediction / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity / Adsorption Selectivity
 
