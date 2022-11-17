@@ -26,7 +26,7 @@
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
 - Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 
-### Single & Multiresponse Models (Parameter Estimation) - Single & Multiobjective Optimizations
+### Single & Multiresponse Models - Single & Multiobjective Optimizations (Parameter Estimation)
 S & M Models and Optizations Examples for:
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Single Response Fitting Problems / Fitting Problem (Examples)
