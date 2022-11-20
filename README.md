@@ -46,7 +46,8 @@ S & M Models and Optizations Examples for:
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion (1 Example)
 
 ### Thermodynamics
-- Calculation of Thermodynamic Parameters (e.g., ΔHrx, Hi, Cpi, Cpmix, Keq, e.t.c.) of 4 Parallel DRM Reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
+- Calculation of Thermodynamic Parameters (e.g., ΔHrx, Hi, Cpi e.t.c.) of 4 Parallel DRM Reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
+- Equilibrium Thermodynamics of the DRM Depicting the Conversion of Reactants CH4 and CO2 to CO, H2, H2O, and C as a Function of Temperature / Equilibrium Thermodynamics DRM.ipynb
 
 ### Transient Behavior
 - Modelling a Transient Plug Flow Reactor / Transient PFR
