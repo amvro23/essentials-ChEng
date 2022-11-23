@@ -47,7 +47,7 @@ S & M Models and Optizations Examples for:
 
 ### Thermodynamics
 - Calculation of Thermodynamic Parameters (e.g., ΔHrx, Hi, Cpi e.t.c.) of 4 Parallel DRM Reactions (SRM1, SRM2, WGS, DRM) using NIST data / Thermodynamics - (DRM)
-- Equilibrium Thermodynamics of the Dry Reforming Reaction Depicting the Conversion of Reactants CH4 and CO2 to CO, H2, and C as a Function of Temperature. / Equilibrium Thermodynamics DRM
+- Equilibrium Thermodynamics (Gibbs Energy Minimization) of the Dry Reforming Reaction Depicting the Conversion of Reactants CH4 and CO2 to CO, H2, and C as a Function of Temperature. / Equilibrium Thermodynamics DRM
 
 ### Transient Behavior
 - Modelling a Transient Plug Flow Reactor / Transient PFR
