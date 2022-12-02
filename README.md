@@ -48,6 +48,7 @@ S & M Models and Optizations Examples for:
 ### Thermodynamics
 - Thermodynamic Analysis of a Diluted Biogas Mixture & of 4 Parallel DRM Reactions (i.e., DRM, SRM1, SRM2, WGS) / Thermodynamic Analysis - Mixture & Reactions
 - Equilibrium Thermodynamics (Gibbs Energy Minimization) of the Dry Reforming Reaction Depicting the Conversion of Reactants CH4 and CO2 to CO, H2, and C as a Function of Temperature / Equilibrium Thermodynamics DRM
+- Equilibrium Compositions of ATR Reaction / Equilibrium Compositions ATR
 
 ### Transient Behavior
 - Modelling a Transient Plug Flow Reactor / Transient PFR
