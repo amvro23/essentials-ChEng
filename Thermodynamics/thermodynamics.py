@@ -3,7 +3,7 @@ import numpy as np
 # CLASSES USED
 class REACTION:
     """
-    Store reaction info here
+    Store reaction info here.
     """
     def __init__(self, coeffs, HF298, SF298, v):
         """
@@ -20,7 +20,7 @@ class REACTION:
         
     def print_params(self):
         """
-        Print molecule parameters
+        Print molecule parameters.
         """
         print("""coeffs: {}
         \t HF298 = {} in kJ/mol
@@ -29,7 +29,7 @@ class REACTION:
     
 class MIXTURE:
     """
-    Store mixture info here
+    Store mixture info here.
     """
     def __init__(self, coeffs, HF298, y, Mr):
         """
