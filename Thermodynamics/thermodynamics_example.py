@@ -60,7 +60,7 @@ reaction_DRM = thermodynamics.REACTION(coeffs_DRM, HF298_DRM, SF298_DRM, v_DRM)
 reaction_DRM.print_params()
 
 print("DRM enthalpy at {} K is {}".format(T, thermodynamics.enthalpy_rxn_kj_mol(reaction_DRM, T)[0]), "kJ/mol")
-print("DRM entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_DRM, T)[0]), "J/mol/K")
+print("DRM entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_DRM, T)[0]), "kJ/mol/K")
 print("DRM gibbs energy at {} K is {}".format(T, thermodynamics.gibbs_rxn_kj_mol(reaction_DRM, T)[0]), "kJ/mol")
 print("DRM Keq at {} K is {}".format(T, np.exp(-thermodynamics.equilibrium_constant(reaction_DRM, T)[0])))
 
@@ -81,7 +81,7 @@ reaction_SRM1 = thermodynamics.REACTION(coeffs_SRM1, HF298_SRM1, SF298_SRM1, v_S
 reaction_SRM1.print_params()
 
 print("SRM1 enthalpy at {} K is {}".format(T, thermodynamics.enthalpy_rxn_kj_mol(reaction_SRM1, T)[0]), "kJ/mol")
-print("SRM1 entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_SRM1, T)[0]), "J/mol/K")
+print("SRM1 entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_SRM1, T)[0]), "kJ/mol/K")
 print("SRM1 gibbs energy at {} K is {}".format(T, thermodynamics.gibbs_rxn_kj_mol(reaction_SRM1, T)[0]), "kJ/mol")
 print("SRM1 Keq at {} K is {}".format(T, np.exp(-thermodynamics.equilibrium_constant(reaction_SRM1, T)[0])))
 
@@ -102,7 +102,7 @@ reaction_SRM2 = thermodynamics.REACTION(coeffs_SRM2, HF298_SRM2, SF298_SRM2, v_S
 reaction_SRM2.print_params()
 
 print("SRM2 enthalpy at {} K is {}".format(T, thermodynamics.enthalpy_rxn_kj_mol(reaction_SRM2, T)[0]), "kJ/mol")
-print("SRM2 entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_SRM2, T)[0]), "J/mol/K")
+print("SRM2 entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_SRM2, T)[0]), "kJ/mol/K")
 print("SRM2 gibbs energy at {} K is {}".format(T, thermodynamics.gibbs_rxn_kj_mol(reaction_SRM2, T)[0]), "kJ/mol")
 print("SRM2 Keq at {} K is {}".format(T, np.exp(-thermodynamics.equilibrium_constant(reaction_SRM2, T)[0])))
 
@@ -123,7 +123,7 @@ reaction_WGS = thermodynamics.REACTION(coeffs_WGS, HF298_WGS, SF298_WGS, v_WGS)
 reaction_WGS.print_params()
 
 print("WGS enthalpy at {} K is {}".format(T, thermodynamics.enthalpy_rxn_kj_mol(reaction_WGS, T)[0]), "kJ/mol")
-print("WGS entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_WGS, T)[0]), "J/mol/K")
+print("WGS entropy at {} K is {}".format(T, thermodynamics.entropy_rxn_kj_mol(reaction_WGS, T)[0]), "kJ/mol/K")
 print("WGS gibbs energy at {} K is {}".format(T, thermodynamics.gibbs_rxn_kj_mol(reaction_WGS, T)[0]), "kJ/mol")
 print("WGS Keq at {} K is {}".format(T, np.exp(-thermodynamics.equilibrium_constant(reaction_WGS, T)[0])))
 
