@@ -7,7 +7,7 @@ class REACTION:
     """
     def __init__(self, coeffs, HF298, SF298, v):
         """
-        Pass parameters desribing reactions
+        Pass parameters describing reactions
         """
         # NIST coefficients of species participating in the reaction
         self.coeffs = coeffs
