@@ -137,7 +137,6 @@ def partial_enthalpies_kj_mol(species, T):
     """
     return species.coeffs.dot(enthalpy(T)) + species.HF298
 
-
 def cpi_j_mol_K(species, T):  
     """
     - param species: species of interest
