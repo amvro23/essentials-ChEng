@@ -142,7 +142,7 @@ Mr_species = np.array([mr_ch4, mr_co2, mr_h2o, mr_h2, mr_co, mr_ar])
 y_species = np.array([0.3, 0.2, 0.0, 0.0, 0.0, 0.5])
 
 ######################################################################################################################
-# create an object with mixture parameters
+# create species object for partial enthalpies and print its stored parameters:
 species_enthalpy = thermodynamics.MIXTURE(coeffs_species, HF298_species, y_species, Mr_species)
 
 species_enthalpy.print_params()
@@ -153,7 +153,7 @@ print("partial enthalpies of species in the mixture at {} K is \n{}"
       .format(T, thermodynamics.partial_enthalpies_kj_mol(species_enthalpy, 873.15)), "\n in kJ/mol")
 
 ######################################################################################################################
-# create an object with mixture parameters
+# create species object for partial specific heats and other mixture properties and print its stored parameters:
 species_Cp = thermodynamics.MIXTURE(coeffs_species[:, :-3], HF298_species, y_species, Mr_species)
 
 species_Cp.print_params()
