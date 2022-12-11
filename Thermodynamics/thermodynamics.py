@@ -147,7 +147,6 @@ def cpi_j_mol_K(species, T):
     """
     return np.array([species.coeffs.dot(specific_heat(T))])
 
-
 def cp_mix_j_mol_K(species, T):
     """
     - param species: species of interest
