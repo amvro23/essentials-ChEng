@@ -168,6 +168,6 @@ print("density of the mixture at {} K and {} bar is \n{}"
       .format(T, P, thermodynamics.d_mix_kg_m3(species_Cp, T, P)[0]), "in kg/m3 ")
 
 print("molar mass of the mixture at {} K and {} bar is \n{}"
-      .format(T, P, thermodynamics.mr_mix_kg_mol(species_Cp)[0]), "in kg/m3 ")
+      .format(T, P, thermodynamics.mr_mix_kg_mol(species_Cp)[0]), "in kg/mol ")
 
 ######################################################################################################################
