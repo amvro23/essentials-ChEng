@@ -198,7 +198,6 @@ def d_mix_kg_m3(species, T, P):
     """
     return c_total_mol_m3(species, T, P)*species.Mr.dot(species.y)
 
-# molar mass of the mixture in kg/mol
 def mr_mix_kg_mol(species):
     """
     - param species: species of interest
