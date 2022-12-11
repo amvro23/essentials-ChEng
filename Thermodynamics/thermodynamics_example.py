@@ -146,8 +146,6 @@ species_enthalpy = thermodynamics.MIXTURE(coeffs_species, HF298_species, y_speci
 
 species_enthalpy.print_params()
 
-T = 873.15 # K
-
 print("partial enthalpies of species in the mixture at {} K is \n{}"
 .format(T, thermodynamics.partial_enthalpies_kj_mol(species_enthalpy, 873.15)[0]), "\n in kJ/mol")
 
