@@ -162,4 +162,4 @@ def calc_equilibrium_constant(T, delta_gibbs, R = 8.314):
     float, int, or 1d array
         Contains dimensionless equilibrium constant of reaction at T.
     """
-    return np.array(np.exp(-delta_gibbs/R/T))
+    return np.exp(-np.array(delta_gibbs)/R/T)
