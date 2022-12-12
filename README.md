@@ -8,6 +8,9 @@
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Adsorption Breakthrough Prediction / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity / Adsorption Selectivity
 
+### Biogas
+- Thermodynamic Analysis of a Diluted Biogas Mixture & of 4 Parallel DRM Reactions (i.e., DRM, SRM1, SRM2, WGS) / thermodynamics_nist & thermodynamics_nist_example
+
 ### Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
 
@@ -46,7 +49,6 @@ S & M Models and Optizations Examples for:
 - Steady State with Axial Dispersion / PFR - Steady State with Axial Dispersion (1 Example)
 
 ### Thermodynamics
-- Thermodynamic Analysis of a Diluted Biogas Mixture & of 4 Parallel DRM Reactions (i.e., DRM, SRM1, SRM2, WGS) / thermodynamics_nist & thermodynamics_nist_example
 - Equilibrium Thermodynamics (Gibbs Energy Minimization) of the Dry Reforming Reaction Depicting the Conversion of Reactants CH4 and CO2 to CO, H2, and C as a Function of Temperature / Equilibrium Thermodynamics DRM
 - Equilibrium Compositions of ATR Reaction / Equilibrium Compositions ATR
 
