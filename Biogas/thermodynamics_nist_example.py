@@ -149,7 +149,7 @@ species_enthalpy = Mixture(coeffs_species, HF298_species, y_species, Mr_species)
 species_enthalpy.print_params()
 
 print("partial enthalpies of species in the mixture at {} K is \n{}"
-.format(T, partial_enthalpies_kj_mol(species_enthalpy, 873.15)[0]), "\n in kJ/mol")
+.format(T, partial_enthalpies_kj_mol(species_enthalpy, 873.15)[0]), "\n kJ/mol")
 
 #---------------------------------------------------------------------------------------------------------------------
 # create an object with mixture parameters
@@ -158,18 +158,18 @@ species_Cp = Mixture(coeffs_species[:, :-3], HF298_species, y_species, Mr_specie
 species_Cp.print_params()
 
 print("partial specific heats of species in the mixture at {} K is \n{}"
-      .format(T, cpi_j_mol_K(species_Cp, T)[0]), "\n in kJ/mol")
+      .format(T, cpi_j_mol_K(species_Cp, T)[0]), "\n kJ/mol")
 
 print("concentrations of species in the mixture at {} K and {} bar is \n{}"
-      .format(T, P, ci_mol_m3(species_Cp, T, P)[0]), "in mol/m3")
+      .format(T, P, ci_mol_m3(species_Cp, T, P)[0]), "mol/m3")
 
 print("total concentration of mixture at {} K and {} bar is \n{}"
-      .format(T, P, c_total_mol_m3(species_Cp, T, P)[0]), "in mol/m3")
+      .format(T, P, c_total_mol_m3(species_Cp, T, P)[0]), "mol/m3")
 
 print("density of the mixture at {} K and {} bar is \n{}"
-      .format(T, P, d_mix_kg_m3(species_Cp, T, P)[0]), "in kg/m3")
+      .format(T, P, d_mix_kg_m3(species_Cp, T, P)[0]), "kg/m3")
 
 print("molar mass of the mixture at {} K and {} bar is \n{}"
-      .format(T, P, mr_mix_kg_mol(species_Cp)[0]), "in kg/mol")
+      .format(T, P, mr_mix_kg_mol(species_Cp)[0]), "kg/mol")
 
 #---------------------------------------------------------------------------------------------------------------------
