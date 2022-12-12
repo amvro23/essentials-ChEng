@@ -9,7 +9,7 @@
 - Adsorption Binary Selectivity / Adsorption Selectivity
 
 ### Biogas
-- Thermodynamic Analysis of a Diluted Biogas Mixture & of 4 Parallel Reactions (i.e., DRM, SRM1, SRM2, WGS) / thermodynamics_nist & thermodynamics_nist_example
+- Thermodynamic Analysis of a Diluted Biogas Mixture & of 4 Parallel Reactions (i.e., DRM, SRM1, SRM2, WGS) using Reid & Nist Data / thermodynamics_nist & thermodynamics_nist_example
 
 ### Solving Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
