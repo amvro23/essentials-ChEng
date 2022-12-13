@@ -1,6 +1,6 @@
 # Essentials of Chemical Engineering
 
-## Here you can find information regarding:
+## This is a repository with examples regarding:
 
 ### Adsorption Processes
 - Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR) / Adsorption Isotherms
