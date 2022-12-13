@@ -8,7 +8,7 @@
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Adsorption Breakthrough Prediction / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity / Adsorption Selectivity
 
-### Solving Differential Equations in Python
+### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
 
 ### Fogler's Book Examples
