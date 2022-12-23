@@ -1,6 +1,6 @@
 # Essentials of Chemical Engineering
 
-[contact](#contact)
+[Contact](#Contact)
 
 ## This is a repository with examples regarding:
 
@@ -55,3 +55,6 @@ S & M Models and Optizations Examples for:
 - Modelling a Transient Plug Flow Reactor / Transient PFR
 - Solving the Transient Heat Conduction Equation (1D) / Transient Heat Conduction (1D)
 - Solving the Transient Diffusion Equation (1D) / Transient Diffusion (1D)
+
+# Contact
+amvro23@gmail.com
