@@ -12,6 +12,7 @@
 
 ### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
+- Finding maxima and minima / ODE max & min
 
 ### Fogler's Book Examples
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
