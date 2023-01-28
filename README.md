@@ -9,6 +9,7 @@
 - Adsorption Kinetics (PFO, PSO, Weber-Morris, Avrami, Bangham, Elovich) + Arrhenius / Adsorption Kinetics / Data in (adsorption_kinetics.csv)
 - Adsorption Breakthrough Prediction (Thomas, Yoon-Nelson, Adams Bohart) / Adsorption Breakthrough Prediction / Data in (Co_10%.csv)
 - Adsorption Binary Selectivity / Adsorption Selectivity
+- Isosteric Heat of Adsorption using Clausius-Clapeyron equation and Freundlich-Langmuir Fit / Isosteric Heat of Adsorption.ipynb
 
 ### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
