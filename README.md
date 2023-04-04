@@ -2,7 +2,7 @@
 
 [Contact](#Contact)
 
-## This is a repository with examples for:
+## This is a repository with examples regarding:
 
 ### Adsorption Processes
 - Adsorption Isotherms (Langmuir, Freundlich, Temkin, Toth, Sips, DR) / Adsorption Isotherms
