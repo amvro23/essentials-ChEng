@@ -52,6 +52,7 @@ S & M Models and Optizations Examples for:
 ### Thermodynamics
 - Equilibrium Thermodynamics (Gibbs Energy Minimization) of the Dry Reforming Reaction Depicting the Conversion of Reactants CH4 and CO2 to CO, H2, and C as a Function of Temperature / Equilibrium Thermodynamics DRM
 - Equilibrium Compositions of ATR Reaction / Equilibrium Compositions ATR
+- Thermodynamics of WGS - (Enthalpy, Entropy, Gibbs, Keq) / Thermodynamics_WGS
 
 ### Transient Behavior
 - Modelling a Transient Plug Flow Reactor / Transient PFR
