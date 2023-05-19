@@ -29,6 +29,7 @@
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
 - Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
+- A simple example for understanding linear regression / Linear Regression - Beginner Example
 
 ### Single & Multiresponse Models - Single & Multiobjective Optimizations (Parameter Estimation)
 S & M Models and Optizations Examples for:
