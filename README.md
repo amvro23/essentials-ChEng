@@ -15,7 +15,7 @@
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
 - Finding maxima and minima / ODE max & min
 
-### Fogler's Book Examples
+### Fogler's Book Examples and More
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
 - Adiabatic Endothermic Reaction in a PFR / PFR - (Fogler 12.2 - p.540)
 - Parallel Reactions in a PFR with Heat Effects / PFR - (Fogler 12.5 - p.564)
@@ -26,6 +26,7 @@
 - Multiple Reactions in a Semibatch Reactor / Semibatch - (Fogler 13.5 - p.625)
 - Adiabatic Batch Reactor (Production of Propylene Glycol) / Batch - (Fogler 13.1 - p.605)
 - Heat Effects in a Semibatch Reactor / SemiBatch - (Fogler 13.3 - p.616)
+- Plug Flow Reactor (PFR) - Gas Phase Reactions / PFR - Gas Phase Reaction
 
 ### Linear Methods for Calculating Desired Parameters
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
