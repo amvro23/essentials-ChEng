@@ -42,7 +42,6 @@ S & M Models and Optizations Examples for:
 - Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization
 - Bates and Watts, 1988, p.147 (Example of Multiresponse Parameter Estimation) / Multiresponse Model
 - Bates and Watts, 1988, p.188 (Example of a Multiresponse Parameter Estimation Using Compartment Models) / Oil Shale - A Case Study
-- Calculating Crystallite Size from X-Ray Diffraction / XRD Fitting / Data in (red_LCNO.txt)
 
 ### Science Plots
 - Science Plots - Bar Chart
