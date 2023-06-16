@@ -61,8 +61,7 @@ S & M Models and Optizations Examples for:
 
 ### Transient Behavior
 - Modelling a Transient Plug Flow Reactor / Transient PFR
-- Solving the Transient Heat Conduction Equation (1D) / Transient Heat Conduction (1D)
-- Solving the Transient Diffusion Equation (1D) / Transient Diffusion (1D)
+- Solving the Transient Heat Conduction Equation / Transient Heat Conduction
 
 # Contact
 amvro23@gmail.com
