@@ -35,6 +35,9 @@
 - Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 - A simple example for understanding linear regression / Linear Regression - Beginner Example
 
+### Particle Size Distribution
+- An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
+
 ### Single & Multiresponse Models - Single & Multiobjective Optimizations (Parameter Estimation)
 S & M Models and Optizations Examples for:
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
