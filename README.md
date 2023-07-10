@@ -38,8 +38,8 @@
 ### Particle Size Distribution
 - An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
 
-### Single & Multiresponse Regression Models - Single & Multiobjective Optimizations (Parameter Estimation)
-S & M Models and Optizations Examples for:
+### Single & Multiresponse Regression Models - Parameter Estimation)
+Single & Multiresponse Examples for:
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Single Response Fitting Problems / Fitting Problem (Examples)
 - Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization
