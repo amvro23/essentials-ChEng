@@ -11,6 +11,14 @@
 - Adsorption Binary Selectivity / Adsorption Selectivity
 - Isosteric Heat of Adsorption using Clausius-Clapeyron equation and Freundlich-Langmuir Fit / Isosteric Heat of Adsorption.ipynb
 
+### Data Fitting / Optimization
+- Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
+- Single Response Fitting Problems / Fitting Problem (Examples)
+- Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization
+- Bates and Watts, 1988, p.147 (Example of Multiresponse Parameter Estimation) / Multiresponse Model
+- Bates and Watts, 1988, p.188 (Example of a Multiresponse Parameter Estimation Using Compartment Models) / Oil Shale - A Case Study
+- A simple example of a Mulstiresponse Model / Multiresponse Model (Simple Example)
+
 ### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
 - Finding maxima and minima / ODE max & min
@@ -37,15 +45,6 @@
 
 ### Particle Size Distribution
 - An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
-
-### Single & Multiresponse Regression Models - (Parameter Estimation)
-Single & Multiresponse Examples for:
-- Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
-- Single Response Fitting Problems / Fitting Problem (Examples)
-- Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization
-- Bates and Watts, 1988, p.147 (Example of Multiresponse Parameter Estimation) / Multiresponse Model
-- Bates and Watts, 1988, p.188 (Example of a Multiresponse Parameter Estimation Using Compartment Models) / Oil Shale - A Case Study
-- A simple example of a Mulstiresponse Model / Multiresponse Model (Simple Example)
 
 ### Science Plots
 - Science Plots - Bar Chart
