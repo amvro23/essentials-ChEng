@@ -43,6 +43,10 @@
 - Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 - A simple example for understanding linear regression / Linear Regression - Beginner Example
 
+### Partial Differential Equations
+- Modelling a Transient Plug Flow Reactor / Transient PFR
+- Solving the Transient Heat Conduction Equation / Transient Heat Conduction
+
 ### Particle Size Distribution
 - An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
 
@@ -60,10 +64,6 @@
 - Equilibrium Thermodynamics (Gibbs Energy Minimization) of the Dry Reforming Reaction Depicting the Conversion of Reactants CH4 and CO2 to CO, H2, and C as a Function of Temperature / Equilibrium Thermodynamics DRM
 - Equilibrium Compositions of ATR Reaction / Equilibrium Compositions ATR
 - Thermodynamics of WGS reaction (Enthalpy, Entropy, Gibbs, Keq) / Thermodynamics_WGS.ipynb
-
-### Transient Behavior
-- Modelling a Transient Plug Flow Reactor / Transient PFR
-- Solving the Transient Heat Conduction Equation / Transient Heat Conduction
 
 # Contact
 amvro23@gmail.com
