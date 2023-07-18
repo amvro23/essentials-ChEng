@@ -6,7 +6,7 @@ Cao = 18.8;
 Cpc = 34.5;
 mc = 0.111;
 T0 = 1035;
-X0 = 0
+X0 = 0;
 Ta0 = 1250;
 Ua = 0;
 
@@ -49,7 +49,7 @@ ylabel('-ra');
 grid on;
 
 
-function dYdV = f_ODE(v, y, Fao, Cpa, delCp, Cao, Cpc, mc, T0, Ua)
+function dYdV = f_ODE(~, y, Fao, Cpa, delCp, Cao, Cpc, mc, T0, Ua)
   X = y(1); 
   T = y(2); 
   Ta = y(3);
