@@ -46,6 +46,7 @@
 ### Partial Differential Equations
 - Modelling a Transient Plug Flow Reactor / Transient PFR
 - Solving the Transient Heat Conduction Equation / Transient Heat Conduction
+- Solving the Transient Diffusion Equation / Transient Diffusion
 
 ### Particle Size Distribution
 - An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
