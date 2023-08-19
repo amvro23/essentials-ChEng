@@ -12,7 +12,6 @@
 - Isosteric Heat of Adsorption using Clausius-Clapeyron equation and Freundlich-Langmuir Fit / Isosteric Heat of Adsorption.ipynb
 
 ### Data Fitting / Optimization
-- Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - Single Response Fitting Problems / Fitting Problem (Examples)
 - Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization
 - Bates and Watts, 1988, p.147 (Example of Multiresponse Parameter Estimation) / Multiresponse Model
@@ -44,6 +43,9 @@
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
 - Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 - A simple example for understanding linear regression / Linear Regression - Beginner Example
+
+### Optimization
+- Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 
 ### Partial Differential Equations
 - Modelling a Transient Plug Flow Reactor / Transient PFR
