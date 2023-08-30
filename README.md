@@ -11,7 +11,7 @@
 - Adsorption Binary Selectivity / Adsorption Selectivity
 - Isosteric Heat of Adsorption using Clausius-Clapeyron equation and Freundlich-Langmuir Fit / Isosteric Heat of Adsorption.ipynb
 
-### Data Fitting / Optimization
+### Curve Fitting & Interpolation
 - Single Response Fitting Problems / Fitting Problem (Examples)
 - Bates and Watts, 1988, p.55 / Parameter Estimation - Isomerization
 - Bates and Watts, 1988, p.147 (Example of Multiresponse Parameter Estimation) / Multiresponse Model
