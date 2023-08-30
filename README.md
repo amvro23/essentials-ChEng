@@ -17,6 +17,7 @@
 - Bates and Watts, 1988, p.147 (Example of Multiresponse Parameter Estimation) / Multiresponse Model
 - Bates and Watts, 1988, p.188 (Example of a Multiresponse Parameter Estimation Using Compartment Models) / Oil Shale - A Case Study
 - A simple example of a Mulstiresponse Model / Multiresponse Model (Simple Example)
+- An example of linear interpolation using numpy.interp and the equation from scratch / Linear Interpolation
 
 ### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
@@ -43,7 +44,6 @@
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
 - Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 - A simple example for understanding linear regression / Linear Regression - Beginner Example
-- An example of linear interpolation using numpy.interp and the equation from scratch / Linear Interpolation
 
 ### Optimization
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
