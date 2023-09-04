@@ -18,7 +18,9 @@
 - Bates and Watts, 1988, p.188 (Example of a Multiresponse Parameter Estimation Using Compartment Models) / Oil Shale - A Case Study
 - A simple example of a Mulstiresponse Model / Multiresponse Model (Simple Example)
 - An example of linear interpolation using numpy.interp and the equation from scratch / Linear Interpolation
-- An example of Langrange interpolation using the equation from scratch/ Lagrange Interpolation
+- An example of Langrange interpolation using the equation from scratch / Lagrange's Interpolation Method
+- An example of Newton's interpolation method using the equation from scratch / Newton's Interpolation Method
+- An example of Polynomial Fit for curve fitting / Polynomial Fit
 
 ### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
