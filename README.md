@@ -48,6 +48,9 @@
 - Bates and Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 - A simple example for understanding linear regression / Linear Regression - Beginner Example
 
+### Numerical Integration
+- Examples of numerical integration / Numerical Integration
+
 ### Optimization
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - An example of Unconstrained & Constrained Convex Optimization / Convex Optimization
