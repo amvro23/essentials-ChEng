@@ -21,6 +21,7 @@
 - An example of Langrange interpolation using the equation from scratch / Lagrange's Interpolation Method
 - An example of Newton's interpolation method using the equation from scratch / Newton's Interpolation Method
 - An example of Polynomial Fit for curve fitting / Polynomial Fit
+- An example of conjuctive model to fit a Gaussian and a linear function / Conjuctive Model
 
 ### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
