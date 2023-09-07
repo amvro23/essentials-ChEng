@@ -23,6 +23,7 @@
 - An example of Polynomial Fit for curve fitting / Polynomial Fit
 - An example of conjuctive model to fit a Gaussian and a linear function / Conjuctive Model
 - An example of an exponential decay fit / Exponential Decay
+- An example of a multivariate model-fitting in a circle using least_squares / Multivariate Model
 
 ### Differential Equations in Python
 - Solving Differential Equations in Python / Solving ODEs - (Examples)
