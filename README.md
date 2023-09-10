@@ -58,6 +58,8 @@
 ### Optimization
 - Maximizing Concentration of an Intermediate in a Batch Reactor using solve_ivp / Batch - Maximize Concentration
 - An example of Unconstrained & Constrained Convex Optimization / Convex Optimization
+- An example of using the Gradient Descent Algorithm / Gradient Descent
+- A simple example of solving f'(x) = 0 / f'(x) = 0
 
 ### Partial Differential Equations
 - Modelling a Transient Plug Flow Reactor / Transient PFR
