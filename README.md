@@ -65,6 +65,7 @@
 - Modelling a Transient Plug Flow Reactor / Transient PFR
 - Solving the Transient Heat Conduction Equation / Transient Heat Conduction
 - Solving the Transient Diffusion Equation / Transient Diffusion
+- Different examples of solving PDEs using solve_ivp & finite different approximation for Diffusion, Wave, Reaction-Diffusion, Advection Equations / PBE Examples
 
 ### Particle Size Distribution
 - An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
