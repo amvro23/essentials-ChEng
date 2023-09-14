@@ -39,7 +39,7 @@
 - Plug Flow Reactor (PFR) - Gas Phase Reactions / PFR - Gas Phase Reaction
 - Heterogeneous Stirred Tank Reactor - STR Reactor
 
-### Linear Methods for Calculating Desired Parameters
+### Linear Methods for Calculating Desired Parameters & More
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
 - Activation Energy Calculation with Linear Regression / Linear Regression - Activation Energy
 - Bates & Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
