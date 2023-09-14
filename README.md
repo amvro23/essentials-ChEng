@@ -25,12 +25,6 @@
 - An example of an exponential decay fit / Exponential Decay
 - An example of a multivariate model-fitting in a circle using least_squares / Multivariate Model
 
-### Differential Equations in Python
-- Solving Differential Equations in Python / Solving ODEs - (Examples)
-- Finding maxima and minima / ODE max & min
-- Solving the Free Fall ODE / Free Fall
-- Transforming an ODE boundary value problem to an equivalent initial value problem using the Shooting Method / Shooting Method
-
 ### Fogler's Book Examples and More Reactors (PBR/PFR - Batch/SemiBatch - CSTR/STR) - Some examples were also solved using Matlab
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
 - Adiabatic Endothermic Reaction in a PFR / PFR - (Fogler 12.2 - p.540)
@@ -61,7 +55,13 @@
 - An example of using the Gradient Descent Algorithm / Gradient Descent
 - A simple example of solving f'(x) = 0 / f'(x) = 0
 
-### Partial Differential Equations
+### Ordinary Differential Equations (ODEs) in Python
+- Solving Differential Equations in Python / Solving ODEs - (Examples)
+- Finding maxima and minima / ODE max & min
+- Solving the Free Fall ODE / Free Fall
+- Transforming an ODE boundary value problem to an equivalent initial value problem using the Shooting Method / Shooting Method
+
+### Partial Differential Equations (PDEs) in Python
 - Modelling a Transient Plug Flow Reactor / Transient PFR
 - Solving the Transient Heat Conduction Equation / Transient Heat Conduction
 - Solving the Transient Diffusion Equation / Transient Diffusion
