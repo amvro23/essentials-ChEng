@@ -63,9 +63,11 @@
 
 ### Partial Differential Equations (PDEs) in Python
 - Modelling a Transient Plug Flow Reactor / Transient PFR
-- Solving the Transient Heat Conduction Equation / Transient Heat Conduction
+- Solving the Transient Heat Conduction Equation (1D) / Heat Conduction - 1D
+- Solving the Heat Equation (2D) / Heat Equation - 2D
 - Solving the Transient Diffusion Equation / Transient Diffusion
 - Different examples of solving PDEs using solve_ivp & finite different approximation for Diffusion, Wave, Reaction-Diffusion, Advection Equations / PBE Examples
+- Approximations of 1st & 2nd order PDEs / 1st & 2nd Order Approximations
 
 ### Particle Size Distribution
 - An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
