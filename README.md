@@ -45,6 +45,7 @@
 - Bates & Watts, 1988, p.3 (Polychlorinated biphenyls in Lake Cayuga) / Linear Regression - Example PCB1
 - A simple example for underst&ing linear regression / Linear Regression - Beginner Example
 - Examples of systems of linear equations using elimination (i.e., Gauss & Gauss-Jordan) & iterative methods (i.e., Jacobi & Gauss-Seidel) / Systems of Linear Equations
+- Solution of a system of n linear equations in n variables using Jacobian Method / Jacobian Method
 
 ### Numerical Integration
 - Examples of numerical integration / Numerical Integration
