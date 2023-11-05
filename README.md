@@ -68,7 +68,7 @@
 - Solving the Heat Equation (2D) / Heat Equation - 2D
 - Solving the Transient Diffusion Equation / Transient Diffusion
 - Different examples of solving PDEs using solve_ivp & finite different approximation for Diffusion, Wave, Reaction-Diffusion, Advection Equations / PBE Examples
-- Approximations of 1st & 2nd order PDEs / 1st & 2nd Order Approximations
+- Approximations of 1st & 2nd order PDEs / Approximations Derivative
 
 ### Particle Size Distribution
 - An example for estimating the particle size distribution of an attapulgite-type mineral / Particle Size Distribution
