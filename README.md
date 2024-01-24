@@ -24,6 +24,7 @@
 - An example of conjuctive model to fit a Gaussian & a linear function / Conjuctive Model
 - An example of an exponential decay fit / Exponential Decay
 - An example of a multivariate model-fitting in a circle using least_squares / Multivariate Model
+- An example of extrapolation using scipy / Extrapolation
 
 ### Fogler's Book Examples & More Reactors (PBR/PFR - Batch/SemiBatch - CSTR/STR) - Some examples were also solved using Matlab
 - Multiple Gas Phase Reactions in a PBR / PFR - (Fogler 8.5 - p.308)
