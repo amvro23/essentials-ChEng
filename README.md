@@ -38,8 +38,8 @@
 - Adiabatic Batch Reactor (Production of Propylene Glycol) / Batch - (Fogler 13.1 - p.605)
 - Heat Effects in a Semibatch Reactor / SemiBatch - (Fogler 13.3 - p.616)
 - Plug Flow Reactor (PFR) - Gas Phase Reactions / PFR - Gas Phase Reaction
-- Heterogeneous Stirred Tank Reactor - STR Reactor
-- Scale up of a Batch reactor - Batch - (Scale Up)
+- Heterogeneous Stirred Tank Reactor / Heterogeneous STR
+- Scale up of a Batch reactor / Batch - (Scale Up)
 
 ### Linear Methods for Calculating Desired Parameters & More
 - Enthalpy Calculation with Linear Regression / Linear Regression - Enthalpy Calculation
